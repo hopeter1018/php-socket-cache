@@ -1,9 +1,7 @@
 {
     "name": "hopeter1018/php-socket-cache",
-    "description": "",
-    "keywords": [],
     "require": {
-        "doctrine/common": "2.3.5",
+        "doctrine/common": "2.3.5"
 	},
     "autoload": {
         "psr-4": {

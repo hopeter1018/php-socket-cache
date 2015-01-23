@@ -1,7 +1,18 @@
 {
     "name": "hopeter1018/php-socket-cache",
+    "description": "Using socket to emulate a cache server",
+    "keywords": ["cache", "socket"],
+	"version": "0.0.1-dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Ho",
+            "email": "hokwaichi@gmail.com",
+            "role": "Developer"
+        }
+	],
     "require": {
-        "doctrine/common": "2.3.5"
+        "doctrine/cache": "2.3.5"
 	},
     "autoload": {
         "psr-4": {

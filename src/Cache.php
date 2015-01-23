@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Hopeter1018\PhpSocketCache;
+namespace Hopeter1018\SocketCache;
 
 use Doctrine\Common\Cache\CacheProvider;
 

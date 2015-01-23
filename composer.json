@@ -1,5 +1,5 @@
 {
-    "name": "hopeter1018/php-socket-cache",
+    "name": "hopeter1018/socket-cache",
     "description": "Using socket to emulate a cache server",
     "keywords": ["cache", "socket"],
 	"version": "0.0.3-dev",
@@ -16,7 +16,7 @@
 	},
     "autoload": {
         "psr-4": {
-            "Hopeter1018\\PhpSocketCache\\": "src"
+            "Hopeter1018\\SocketCache\\": "src"
         }
     }
 }
